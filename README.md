@@ -10,13 +10,13 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/23375153/223115967-55c50fc5-f55d-419c-9944-f10be04aae45.gif" width="530px" height="auto"/>
 
 
-- 🔭 I’m currently working on **Web APIs.**
+- 🔭 I’m currently working on **MERN stack technologies.**
 
-- 🌱 I’m currently learning **TypeScript,Vue.js.**
+- 🌱 I’m currently learning **RTK query, React Native.**
 
 - 🤝 I’m looking to get deep into **Machine learning and AI.**
 
-- 💬 Ask me about **CSS, Javascript, React, Redux and Ruby on Rails(ROR)**.
+- 💬 Ask me about **Javascript, Typescript, React, Node.js, MongoDB and Express**.
 
 - 📫 How to reach me **yabtsega2022@gmail.com**
 
@@ -26,11 +26,11 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-<a href="https://codepen.io/Besufekad-HAZ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Besufekad Alemu" height="30" width="40" /></a>
-<a href="https://twitter.com/BesufekadAlemu7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Besufekad Alemu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/besura/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Besufekad Alemu" height="30" width="40" /></a>
-<a href="https://m.facebook.com/100004888538740/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Besufekad Alemu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/besufekad77/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Besufekad Alemu" height="30" width="40" /></a>
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yabtsega-yeshidnber-7a9618257" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://m.facebook.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yaba_kb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
